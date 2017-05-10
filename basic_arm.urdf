@@ -1,6 +1,5 @@
-
-<?source:http://wiki.ros.org/urdf/Tutorials?>
 <?xml version="1.0"?>
+<!-- source:http://wiki.ros.org/urdf/Tutorials -->
 <robot name="materials">
 
   <material name="blue">
